@@ -11,5 +11,7 @@
 
 Riassumendo ecco i link predisposti più ordinatamente:
 Link di tutte le rom create da me: https://drive.google.com/drive/folders/115HuDnOTHdDQnJ58u5Q-QvXFPW6V5bWZ?usp=share_link
+
 Link della cartella dove caricherete le rom modificate da voi:  https://drive.google.com/drive/folders/1jfHRBMTf-BXL-TjuMH-eW5z_6SzY-WsB?usp=share_link
+
 Link della cartella "DELTA" dove verranno caricate le rom ufficiali del giorno (verranno caricate anche qui su GitHub): https://drive.google.com/drive/folders/1_ar3Gi05cIzhQvpBHkdZg1oOo5N0xyFK?usp=share_link
