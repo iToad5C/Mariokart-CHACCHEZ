@@ -10,6 +10,7 @@
 5 LE RELEASE UFFICIALI DEL GIORNO SI TROVANO NELLA SEZIONE RELEASES quindi cliccate sulla scritta RELEASES non sulla scritta TAGS
 
 Riassumendo ecco i link predisposti più ordinatamente:
+
 Link di tutte le rom create da me: https://drive.google.com/drive/folders/115HuDnOTHdDQnJ58u5Q-QvXFPW6V5bWZ?usp=share_link
 
 Link della cartella dove caricherete le rom modificate da voi:  https://drive.google.com/drive/folders/1jfHRBMTf-BXL-TjuMH-eW5z_6SzY-WsB?usp=share_link
