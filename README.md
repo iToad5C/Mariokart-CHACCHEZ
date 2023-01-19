@@ -6,3 +6,5 @@ Qui invece c'è il link della cartella delta dove verranno caricate tutte le rom
 Le rom ufficiali del mese verranno caricate qui su GitHub nella sezione releases
 
 Le rom non verranno caricate regolarmente ma sicuramente usciranno 2 rom al mese
+
+Se volete consigliarci che programmi usare scrivetecelo all'indirizzo emai: kinopiotoad1@gmail.com
