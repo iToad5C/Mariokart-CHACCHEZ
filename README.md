@@ -12,3 +12,5 @@ Se volete consigliarci che programmi usare scrivetecelo all'indirizzo emai: kino
 Le rom potrebbero non essere in ordine, ovvero magari per prima appare una rom caricata a dicembre e poi una rom caricata a gennaio, quindi guardate sempre la data di pubblicazione che è scritta nel titolo della rom
 
 Le rom che al posto di avere come scirtta: LA ROM DEL GIORNO: DD/MM/YY, hanno: LA ROM DEL MESE: DD/MM/YY, vuol dire che quella rom sarà l'ultima caricata in quel mese
+
+Le rom di Super Mario Kart hanno come titolo LA SUPER ROM DEL GIORNO: DD/MM/YY, oppure LA SUPER ROM DEL MESE: DD/MM/YY
